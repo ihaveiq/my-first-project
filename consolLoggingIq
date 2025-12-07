@@ -2,6 +2,6 @@ console.log("welcome to console loggine iq game);
 var name = prompt("enter your name");
   var i = 0;
 while (i<201){
-  console.log("You have" + i + "iq);
-  console.log("suddenly);
+  console.log(name + " have " + i + " iq");
+  console.log("suddenly");
   }
